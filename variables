@@ -1,0 +1,2 @@
+# You need to pass the OpenAI API key to the Python Flask API from GitHub Actions secrets by setting the OPENAI_API_KEY environment variable:
+OPENAI_API_KEY=your_openai_api_key_here.
